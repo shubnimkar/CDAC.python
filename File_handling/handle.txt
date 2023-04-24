@@ -1,0 +1,6 @@
+Hello
+we are learning python
+current topic is file handling
+hope to understand it soon
+this is line no 5
+and this end
